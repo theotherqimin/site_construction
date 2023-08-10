@@ -1,3 +1,7 @@
+Qi Min's Website.
+
+This was forked from the minimal-mistakes repository. Please see below for full credits and license. 
+<br>
 
 ## Credits
 
