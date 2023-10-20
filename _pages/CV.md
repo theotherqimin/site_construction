@@ -12,6 +12,7 @@ Current courses:
     <li>Introduction to Data Science and Machine Learning</li>
     <li>Foundations of Social Data Science</li>
     <li>Applied Analytical Statistics</li>
+</ul>
 
 ###### 2020 - Sept 2023: Teaching Assistant at National University of Singapore
 Modules taught:
