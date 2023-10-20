@@ -6,7 +6,14 @@ title: "CV"
 
 ## Experiences
 
-###### 2020 - present: Teaching Assistant at National University of Singapore
+###### Oct 2023 — present: MSc Social Data Science at Oxford University
+Current courses:
+<ul>
+    <li>Introduction to Data Science and Machine Learning</li>
+    <li>Foundations of Social Data Science</li>
+    <li>Applied Analytical Statistics</li>
+
+###### 2020 - Sept 2023: Teaching Assistant at National University of Singapore
 Modules taught:
 <ul>
     <li>Data Science for Psychology</li>
@@ -33,7 +40,8 @@ BSc Psychology with Education, First Class Honours
 ## Skills and Languages
 
 <p><ul>
-    <li>R and R Studio</li>
+    <li>R</li>
+    <li>Python</li>
     <li>Version control — Git and Github</li>
     <li>SPSS</li>
     <li>NVivo</li>
