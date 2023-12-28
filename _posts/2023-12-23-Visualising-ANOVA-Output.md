@@ -10,3 +10,7 @@ tags:
 classes: wide
 ---
 I made this visualisation of a one-way ANOVA honestly just because I was so mindblown when I heard how Prof Mike Cheung explained it when I was a tutor for one of his courses. I originally posted this on Twitter (or I guess X now) but who knows what's happening on that platform anymore so I figured I'd put this up here as well. The video is meant to be self-explanatory, in terms of how the output you receive when you run an ANOVA test in SPSS/R/JASP or your environment of choice relates to the data you give it. The whole thing was done in Apple's Keynote App (both on desktop and iPad — just for the handwritten bits, the iPad was not strictly necessary). I will note, however, that the video is a little fast for my liking, which was the case because it had to fit in Twitter's time limit for videos. Can I change it? Yes. Will I do it? Maybe. Until then, it's easy enough to just pause the video wherever you want to. Okay bye. 
+
+
+https://github.com/theotherqimin/theotherqimin.github.io/assets/96573597/94946d34-8765-469c-bbab-f9960f404633
+
