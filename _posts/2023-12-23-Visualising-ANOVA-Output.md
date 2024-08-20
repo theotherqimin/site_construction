@@ -13,5 +13,6 @@ I made this visualisation of a one-way ANOVA honestly just because I was so mind
 
 
 
-https://github.com/user-attachments/assets/84211af7-8f33-4502-b5ef-dcb419c1b3d8
+<video src="https://github.com/user-attachments/assets/84211af7-8f33-4502-b5ef-dcb419c1b3d8" controls="controls" style="max-width: 730px;">
+</video>
 
