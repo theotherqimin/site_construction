@@ -6,29 +6,16 @@ title: "CV"
 
 ## Experiences
 
-###### Oct 2023 — present: MSc Social Data Science at Oxford University
-Current courses:
-<ul>
-    <li>Introduction to Data Science and Machine Learning</li>
-    <li>Foundations of Social Data Science</li>
-    <li>Applied Analytical Statistics</li>
-</ul>
+###### 2023 — present: MSc Social Data Science at Oxford University
+**Thesis**: What makes Seeing Believing: Investigating the effect of dyadic relationships on identifying individuals from deepfakes
 
-###### 2020 - Sept 2023: Teaching Assistant at National University of Singapore
-Modules taught:
-<ul>
-    <li>Data Science for Psychology</li>
-    <li>Trauma Psychology</li>
-    <li>Human Performance</li>
-    <li>Research and Statistical Methods 1</li>
-    <li>Research and Statistical Methods 2</li>
-    <li>Abnormal Psychology</li>
-    <li>Social Psychology</li>
-    <li>Developmental Psychology</li>
-    <li>Cognitive Psychology</li>
-    <li>Biological Psychology</li>
-    <li>Introduction to Psychology</li>
-</ul>
+**Courses taken**: Introduction to Data Science and Machine Learning, Foundations of Social Data Science, Applied Analytical Statistics, Introduction to Natural Language Processing (NLP), Data-driven Network Science, Research Design for Social Data Science
+
+###### 2020 - 2023: Teaching Assistant at National University of Singapore
+<br>
+**Guest lectures**: Conformity and obedience in the context of Covid-19 <em>(Social Psychology)</em>, Gender differences and culture differences in trauma reactions <em>(Trauma Psychology)</em>
+
+**Modules taught**: Data Science for Psychology, Trauma Pyschology, Human Performance, Research and Statistical Methods I and II, Abnormal/Social/Developmental/Cognitive/Biological Psychology 
 
 ###### 2019: Graduated from University College London
 BSc Psychology with Education, First Class Honours
@@ -41,10 +28,9 @@ BSc Psychology with Education, First Class Honours
 ## Skills and Languages
 
 <p><ul>
-    <li>R</li>
-    <li>Python</li>
+    <li>R and Python</li>
     <li>Version control — Git and Github</li>
-    <li>SPSS</li>
+    <li>SPSS and JASP</li>
     <li>NVivo</li>
     <li>Qualtrics</li>
     <li>English</li>
